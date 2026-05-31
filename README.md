@@ -80,23 +80,21 @@ I'm a **Software Engineer at [SageReport](https://sagereport.com)**, and I run *
 
 | Project | What it does | Status |
 |---|---|---|
-| **[Canvasvid](https://canvasvid.app)** | AI explainer-video generator &mdash; turn a single sentence into a polished, narrated video (script, AI voice, scenes, subtitles) in minutes. | 🚧 In development |
+| **[Canvasvid](https://canvasvid.app)** | AI explainer-video generator &mdash; turn a single sentence into a polished, narrated video (script, AI voice, scenes, subtitles) in minutes. | ✅ Live |
 | **[DomiSol](https://domisol.app)** | Web-based **tonic solfa & jianpu** music notation editor &mdash; compose, play back, arrange SATB, and export print-ready hymns and choral scores. | 🧪 Public beta |
 | **[EvoCV](https://evocv.com)** | AI CV builder & job-fit platform &mdash; ATS-optimized CVs, an **EvoScore** match check, cover letters, and discovery for SEA tech talent. | ✅ Live |
 | **[Gitkonek](https://gitkonek.com)** | Software-house agency &mdash; senior full-stack engineering that builds, ships, and **maintains** founders' products long-term. | ✅ Live |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hubertusputu1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubertusputu1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hubertusputu1&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+![Followers](https://img.shields.io/github/followers/hubertusputu1?style=for-the-badge&logo=github&logoColor=white&color=2F81F7&labelColor=0d1117)
+![Profile views](https://komarev.com/ghpvc/?username=hubertusputu1&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)
+![Focus](https://img.shields.io/badge/Focus-Full--stack%20%26%20AI%20products-3FCF8E?style=for-the-badge&labelColor=0d1117)
+![Open to collab](https://img.shields.io/badge/Open%20to-Collaboration-F38020?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
