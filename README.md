@@ -13,7 +13,7 @@
 <br/>
 
 <p>
-  <em>Software Engineer building and running real products end-to-end &mdash; web, mobile, and AI.</em>
+  <em>Software Engineer building and running real products end-to-end across web, mobile, and AI.</em>
 </p>
 
 <p>
@@ -35,7 +35,7 @@
 
 ## 🚀 What I'm working on
 
-I'm a **Software Engineer at [SageReport](https://sagereport.com)**, and I run **[Gitkonek](https://gitkonek.com)** &mdash; a software house that builds, ships, and maintains products for founders over the long haul. Most of what I build, I keep running.
+I'm a **Software Engineer at [SageReport](https://sagereport.com)**, and I run **[Gitkonek](https://gitkonek.com)**, a software house that builds, ships, and maintains products for founders over the long haul. Most of what I build, I keep running.
 
 - 🔭 Currently shipping products across **web, mobile, and AI**
 - 🌱 Going deep on **Go**, edge infra (**Cloudflare**), and applied **AI/LLM** features
@@ -76,14 +76,14 @@ I'm a **Software Engineer at [SageReport](https://sagereport.com)**, and I run *
 
 ## 📂 Active Projects
 
-> Products I'm building and keeping live &mdash; not just launching.
+> Products I'm building and keeping live, not just launching.
 
 | Project | What it does | Status |
 |---|---|---|
-| **[Canvasvid](https://canvasvid.app)** | AI explainer-video generator &mdash; turn a single sentence into a polished, narrated video (script, AI voice, scenes, subtitles) in minutes. | ✅ Live |
-| **[DomiSol](https://domisol.app)** | Web-based **tonic solfa & jianpu** music notation editor &mdash; compose, play back, arrange SATB, and export print-ready hymns and choral scores. | 🧪 Public beta |
-| **[EvoCV](https://evocv.com)** | AI CV builder & job-fit platform &mdash; ATS-optimized CVs, an **EvoScore** match check, cover letters, and discovery for SEA tech talent. | ✅ Live |
-| **[Gitkonek](https://gitkonek.com)** | Software-house agency &mdash; senior full-stack engineering that builds, ships, and **maintains** founders' products long-term. | ✅ Live |
+| **[Canvasvid](https://canvasvid.app)** | AI explainer-video generator that turns a single sentence into a polished, narrated video (script, AI voice, scenes, subtitles) in minutes. | ✅ Live |
+| **[DomiSol](https://domisol.app)** | Web-based **tonic solfa & jianpu** music notation editor. Compose, play back, arrange SATB, and export print-ready hymns and choral scores. | 🧪 Public beta |
+| **[EvoCV](https://evocv.com)** | AI CV builder & job-fit platform with ATS-optimized CVs, an **EvoScore** match check, cover letters, and discovery for SEA tech talent. | ✅ Live |
+| **[Gitkonek](https://gitkonek.com)** | Software-house agency providing senior full-stack engineering that builds, ships, and **maintains** founders' products long-term. | ✅ Live |
 
 ---
 
@@ -102,7 +102,7 @@ I'm a **Software Engineer at [SageReport](https://sagereport.com)**, and I run *
 
 <div align="center">
 
-💡 *"We don't launch and leave."* &mdash; building things that keep shipping.
+💡 *"We don't launch and leave."* Building things that keep shipping.
 
 <a href="https://www.linkedin.com/in/hubertus-putu">LinkedIn</a> ·
 <a href="https://gitkonek.com">gitkonek.com</a> ·
