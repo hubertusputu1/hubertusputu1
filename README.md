@@ -99,6 +99,17 @@ I'm a **Software Engineer at [SageReport](https://sagereport.com)**, and I run *
 
 ---
 
+## ✍️ Latest writing
+
+I write field notes on building, shipping, and maintaining real software at [gitkonek.com/articles](https://gitkonek.com/articles).
+
+- [Custom app development: when (and how) to build your first app](https://gitkonek.com/articles/building-your-first-custom-app) &nbsp;·&nbsp; <sub>May 2026</sub>
+- [How to build your first custom web app (without getting burned)](https://gitkonek.com/articles/building-your-first-custom-web-app) &nbsp;·&nbsp; <sub>May 2026</sub>
+- [Why custom development beats templates every time](https://gitkonek.com/articles/why-custom-development-beats-templates) &nbsp;·&nbsp; <sub>Jan 2026</sub>
+- [How AI is transforming small business tools](https://gitkonek.com/articles/how-ai-is-transforming-small-business-tools) &nbsp;·&nbsp; <sub>Jan 2026</sub>
+
+---
+
 ## 📊 GitHub
 
 <div align="center">
@@ -107,6 +118,11 @@ I'm a **Software Engineer at [SageReport](https://sagereport.com)**, and I run *
 ![Profile views](https://komarev.com/ghpvc/?username=hubertusputu1&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)
 ![Focus](https://img.shields.io/badge/Focus-Full--stack%20%26%20AI%20products-3FCF8E?style=for-the-badge&labelColor=0d1117)
 ![Open to collab](https://img.shields.io/badge/Open%20to-Collaboration-F38020?style=for-the-badge&labelColor=0d1117)
+
+<br/><br/>
+
+<!-- Generated daily by .github/workflows/metrics.yml (lowlighter/metrics) -->
+<img src="./metrics.svg" alt="Metrics" width="100%" />
 
 <br/>
 
