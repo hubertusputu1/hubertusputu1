@@ -1,0 +1,102 @@
+<svg width="1280" height="340" viewBox="0 0 1280 340" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0a0e1a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2F81F7"/>
+      <stop offset="0.5" stop-color="#3FCF8E"/>
+      <stop offset="1" stop-color="#F38020"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#cbd5f5"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.78" cy="0.3" r="0.6">
+      <stop offset="0" stop-color="#2F81F7" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#2F81F7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1c2742" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="340" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="340" rx="20" fill="url(#grid)" opacity="0.5"/>
+  <rect width="1280" height="340" rx="20" fill="url(#glow)"/>
+  <rect x="2" y="2" width="1276" height="336" rx="18" fill="none" stroke="#1c2742" stroke-width="2"/>
+
+  <!-- left accent bar -->
+  <rect x="64" y="96" width="6" height="148" rx="3" fill="url(#accent)"/>
+
+  <!-- terminal tag -->
+  <g transform="translate(92, 70)">
+    <circle cx="0" cy="0" r="5" fill="#F38020"/>
+    <circle cx="18" cy="0" r="5" fill="#3FCF8E"/>
+    <circle cx="36" cy="0" r="5" fill="#2F81F7"/>
+    <text x="60" y="5" fill="#7d8aa8" font-size="16" font-family="'Fira Code', monospace">~/hubertusputu1 : git push</text>
+  </g>
+
+  <!-- name -->
+  <text x="92" y="168" fill="url(#nameGrad)" font-size="62" font-weight="800" letter-spacing="-1">Hubertus Putu</text>
+
+  <!-- tagline -->
+  <text x="94" y="214" fill="#9fb0d4" font-size="25" font-weight="500">Software Engineer · Full-Stack &amp; AI Product Builder</text>
+
+  <!-- mantra -->
+  <text x="94" y="252" fill="#5f6e8c" font-size="17" font-family="'Fira Code', monospace">I ship products, then keep them shipping.</text>
+
+  <!-- chips -->
+  <g font-size="15" font-weight="600">
+    <g transform="translate(94, 282)">
+      <rect width="118" height="34" rx="17" fill="#11203a" stroke="#2F81F7" stroke-opacity="0.5"/>
+      <text x="59" y="22" fill="#7fb0ff" text-anchor="middle">TypeScript</text>
+    </g>
+    <g transform="translate(224, 282)">
+      <rect width="64" height="34" rx="17" fill="#10241c" stroke="#3FCF8E" stroke-opacity="0.5"/>
+      <text x="32" y="22" fill="#69e0a8" text-anchor="middle">Go</text>
+    </g>
+    <g transform="translate(300, 282)">
+      <rect width="96" height="34" rx="17" fill="#11203a" stroke="#2F81F7" stroke-opacity="0.5"/>
+      <text x="48" y="22" fill="#7fb0ff" text-anchor="middle">React</text>
+    </g>
+    <g transform="translate(408, 282)">
+      <rect width="92" height="34" rx="17" fill="#10241c" stroke="#3FCF8E" stroke-opacity="0.5"/>
+      <text x="46" y="22" fill="#69e0a8" text-anchor="middle">Flutter</text>
+    </g>
+    <g transform="translate(512, 282)">
+      <rect width="120" height="34" rx="17" fill="#2a1c10" stroke="#F38020" stroke-opacity="0.5"/>
+      <text x="60" y="22" fill="#f0a35e" text-anchor="middle">Cloud / AI</text>
+    </g>
+  </g>
+
+  <!-- right side: stacked product wordmarks -->
+  <g transform="translate(880, 96)" font-weight="700">
+    <g transform="translate(0,0)">
+      <rect width="320" height="40" rx="10" fill="#0f1a30" stroke="#1c2742"/>
+      <circle cx="22" cy="20" r="5" fill="#2F81F7"/>
+      <text x="42" y="26" fill="#c7d3ee" font-size="17">Canvasvid</text>
+      <text x="300" y="26" fill="#3FCF8E" font-size="12" text-anchor="end">LIVE</text>
+    </g>
+    <g transform="translate(0,52)">
+      <rect width="320" height="40" rx="10" fill="#0f1a30" stroke="#1c2742"/>
+      <circle cx="22" cy="20" r="5" fill="#3FCF8E"/>
+      <text x="42" y="26" fill="#c7d3ee" font-size="17">EvoCV</text>
+      <text x="300" y="26" fill="#3FCF8E" font-size="12" text-anchor="end">LIVE</text>
+    </g>
+    <g transform="translate(0,104)">
+      <rect width="320" height="40" rx="10" fill="#0f1a30" stroke="#1c2742"/>
+      <circle cx="22" cy="20" r="5" fill="#F38020"/>
+      <text x="42" y="26" fill="#c7d3ee" font-size="17">DomiSol</text>
+      <text x="300" y="26" fill="#f0a35e" font-size="12" text-anchor="end">BETA</text>
+    </g>
+    <g transform="translate(0,156)">
+      <rect width="320" height="40" rx="10" fill="#0f1a30" stroke="#1c2742"/>
+      <circle cx="22" cy="20" r="5" fill="#2F81F7"/>
+      <text x="42" y="26" fill="#c7d3ee" font-size="17">Gitkonek</text>
+      <text x="300" y="26" fill="#3FCF8E" font-size="12" text-anchor="end">LIVE</text>
+    </g>
+  </g>
+</svg>
